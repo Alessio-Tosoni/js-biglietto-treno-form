@@ -22,6 +22,15 @@ body{
 
 #secondo{
     display: none;
-    background: blue;
+    background: white;
     border: 1px solid black;
+    width: 50%;
+    margin: auto;
 } 
+.dettagli{
+    background-color:teal;
+}
+.my-boblk{border: 2px solid black;}
+.w40{width: 40%;}
+.w50{width: 50%;}
+.w60{width: 60%;}
