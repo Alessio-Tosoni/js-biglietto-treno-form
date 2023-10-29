@@ -9,12 +9,13 @@ body{
     background-color: orangered;
 }
 
-.bigliettoa{
-    margin-top: 60px;
+#testo{
+    margin-top: 250px; 
+    margin-bottom:20px
 }
 .primo{
     width: 50%;
-}
+}   
 
 #eta{
     min-height: 30px;
@@ -24,8 +25,6 @@ body{
     display: none;
     background: white;
     border: 1px solid black;
-    width: 50%;
-    margin: auto;
 } 
 .dettagli{
     background-color:teal;
